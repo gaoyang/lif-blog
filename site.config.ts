@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: `Gaoyang's Blog`,
-  domain: 'www.leigaoyang.com',
+  domain: 'leigaoyang.com',
   author: 'gaoyang',
 
   // open graph metadata (optional)
